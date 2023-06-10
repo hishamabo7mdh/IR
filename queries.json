@@ -1,0 +1,345 @@
+{
+  "queries": [
+    {
+      "query": "cov",
+      "suggestions": ["coronavirus ", "covid", "sarscovid"]
+    },
+    {
+      "query": "sar",
+      "suggestions": ["coronavirus ", "covid", "sarscovid"]
+    },
+    {
+      "query": "cor",
+      "suggestions": ["coronavirus ", "covid", "sarscovid"]
+    },
+
+    {
+      "query": "coronavirus origin",
+      "suggestions": ["what is the origin of COVID-19"]
+    },
+    {
+      "query": "what is the origin of COVID-19",
+      "suggestions": ["what is the origin of COVID-19"]
+    },
+    {
+      "query": "coronavirus response to weather changes",
+      "suggestions": [
+        "how does the coronavirus respond to changes in the weather"
+      ]
+    },
+    {
+      "query": "how does the coronavirus respond to changes in the weather",
+      "suggestions": [
+        "how does the coronavirus respond to changes in the weather"
+      ]
+    },
+    {
+      "query": "coronavirus immunity",
+      "suggestions": [
+        "will SARS-CoV2 infected people develop immunity? Is cross protection possible?"
+      ]
+    },
+    {
+      "query": "will SARS-CoV2 infected people develop immunity? Is cross protection possible?",
+      "suggestions": [
+        "will SARS-CoV2 infected people develop immunity? Is cross protection possible?"
+      ]
+    },
+    {
+      "query": "how do people die from the coronavirus",
+      "suggestions": ["what causes death from Covid-19?"]
+    },
+    {
+      "query": "what causes death from Covid-19?",
+      "suggestions": ["what causes death from Covid-19?"]
+    },
+    {
+      "query": "animal models of COVID-19",
+      "suggestions": [
+        "what drugs have been active against SARS-CoV or SARS-CoV-2 in animal studies?"
+      ]
+    },
+    {
+      "query": "what drugs have been active against SARS-CoV or SARS-CoV-2 in animal studies?",
+      "suggestions": [
+        "what drugs have been active against SARS-CoV or SARS-CoV-2 in animal studies?"
+      ]
+    },
+    {
+      "query": "coronavirus test rapid testing",
+      "suggestions": [
+        "what types of rapid testing for Covid-19 have been developed?"
+      ]
+    },
+    {
+      "query": "what types of rapid testing for Covid-19 have been developed?",
+      "suggestions": [
+        "what types of rapid testing for Covid-19 have been developed?"
+      ]
+    },
+    {
+      "query": "serological tests for coronavirus",
+      "suggestions": [
+        "are there serological tests that detect antibodies to coronavirus?"
+      ]
+    },
+    {
+      "query": "are there serological tests that detect antibodies to coronavirus?",
+      "suggestions": [
+        "are there serological tests that detect antibodies to coronavirus?"
+      ]
+    },
+    {
+      "query": "coronavirus under reporting",
+      "suggestions": [
+        "how has lack of testing availability led to underreporting of true incidence of Covid-19?"
+      ]
+    },
+    {
+      "query": "how has lack of testing availability led to underreporting of true incidence of Covid-19?",
+      "suggestions": [
+        "how has lack of testing availability led to underreporting of true incidence of Covid-19?"
+      ]
+    },
+    {
+      "query": "coronavirus in Canada",
+      "suggestions": ["how has COVID-19 affected Canada"]
+    },
+    {
+      "query": "how has COVID-19 affected Canada",
+      "suggestions": ["how has COVID-19 affected Canada"]
+    },
+    {
+      "query": "coronavirus social distancing impact",
+      "suggestions": [
+        "has social distancing had an impact on slowing the spread of COVID-19?"
+      ]
+    },
+    {
+      "query": "has social distancing had an impact on slowing the spread of COVID-19?",
+      "suggestions": [
+        "has social distancing had an impact on slowing the spread of COVID-19?"
+      ]
+    },
+    {
+      "query": "coronavirus hospital rationing",
+      "suggestions": [
+        "what are the guidelines for triaging patients infected with coronavirus?"
+      ]
+    },
+    {
+      "query": "what are the guidelines for triaging patients infected with coronavirus?",
+      "suggestions": [
+        "what are the guidelines for triaging patients infected with coronavirus?"
+      ]
+    },
+    {
+      "query": "coronavirus quarantine",
+      "suggestions": [
+        "what are best practices in hospitals and at home in maintaining quarantine?"
+      ]
+    },
+    {
+      "query": "what are best practices in hospitals and at home in maintaining quarantine?",
+      "suggestions": [
+        "what are best practices in hospitals and at home in maintaining quarantine?"
+      ]
+    },
+    {
+      "query": "how does coronavirus spread",
+      "suggestions": ["what are the transmission routes of coronavirus?"]
+    },
+    {
+      "query": "what are the transmission routes of coronavirus?",
+      "suggestions": ["what are the transmission routes of coronavirus?"]
+    },
+    {
+      "query": "coronavirus super spreaders",
+      "suggestions": [
+        "what evidence is there related to COVID-19 super spreaders"
+      ]
+    },
+    {
+      "query": "what evidence is there related to COVID-19 super spreaders",
+      "suggestions": [
+        "what evidence is there related to COVID-19 super spreaders"
+      ]
+    },
+    {
+      "query": "coronavirus outside body",
+      "suggestions": ["how long can the coronavirus live outside the body"]
+    },
+    {
+      "query": "how long can the coronavirus live outside the body",
+      "suggestions": ["how long can the coronavirus live outside the body"]
+    },
+    {
+      "query": "how long does coronavirus survive on surfaces",
+      "suggestions": ["how long does coronavirus remain stable  on surfaces?"]
+    },
+    {
+      "query": "how long does coronavirus remain stable  on surfaces?",
+      "suggestions": ["how long does coronavirus remain stable  on surfaces?"]
+    },
+    {
+      "query": "coronavirus clinical trials",
+      "suggestions": [
+        "are there any clinical trials available for the coronavirus"
+      ]
+    },
+    {
+      "query": "are there any clinical trials available for the coronavirus",
+      "suggestions": [
+        "are there any clinical trials available for the coronavirus"
+      ]
+    },
+    {
+      "query": "masks prevent coronavirus",
+      "suggestions": [
+        "what are the best masks for preventing infection by Covid-19?"
+      ]
+    },
+    {
+      "query": "what are the best masks for preventing infection by Covid-19?",
+      "suggestions": [
+        "what are the best masks for preventing infection by Covid-19?"
+      ]
+    },
+    {
+      "query": "what alcohol sanitizer kills coronavirus",
+      "suggestions": [
+        "what type of hand sanitizer is needed to destroy Covid-19?"
+      ]
+    },
+    {
+      "query": "what type of hand sanitizer is needed to destroy Covid-19?",
+      "suggestions": [
+        "what type of hand sanitizer is needed to destroy Covid-19?"
+      ]
+    },
+    {
+      "query": "coronavirus and ACE inhibitors",
+      "suggestions": [
+        "are patients taking Angiotensin-converting enzyme inhibitors (ACE) at increased risk for COVID-19?"
+      ]
+    },
+    {
+      "query": "are patients taking Angiotensin-converting enzyme inhibitors (ACE) at increased risk for COVID-19?",
+      "suggestions": [
+        "are patients taking Angiotensin-converting enzyme inhibitors (ACE) at increased risk for COVID-19?"
+      ]
+    },
+    {
+      "query": "coronavirus mortality",
+      "suggestions": [
+        "what are the mortality rates overall and in specific populations"
+      ]
+    },
+    {
+      "query": "what are the mortality rates overall and in specific populations",
+      "suggestions": [
+        "what are the mortality rates overall and in specific populations"
+      ]
+    },
+    {
+      "query": "coronavirus heart impacts",
+      "suggestions": [
+        "are cardiac complications likely in patients with COVID-19?"
+      ]
+    },
+    {
+      "query": "are cardiac complications likely in patients with COVID-19?",
+      "suggestions": [
+        "are cardiac complications likely in patients with COVID-19?"
+      ]
+    },
+    {
+      "query": "coronavirus hypertension",
+      "suggestions": [
+        "what kinds of complications related to COVID-19 are associated with hypertension?"
+      ]
+    },
+    {
+      "query": "what kinds of complications related to COVID-19 are associated with hypertension?",
+      "suggestions": [
+        "what kinds of complications related to COVID-19 are associated with hypertension?"
+      ]
+    },
+    {
+      "query": "coronavirus diabetes",
+      "suggestions": [
+        "what kinds of complications related to COVID-19 are associated with diabetes"
+      ]
+    },
+    {
+      "query": "what kinds of complications related to COVID-19 are associated with diabetes",
+      "suggestions": [
+        "what kinds of complications related to COVID-19 are associated with diabetes"
+      ]
+    },
+    {
+      "query": "coronavirus biomarkers",
+      "suggestions": [
+        "which biomarkers predict the severe clinical course of 2019-nCOV infection?"
+      ]
+    },
+    {
+      "query": "which biomarkers predict the severe clinical course of 2019-nCOV infection?",
+      "suggestions": [
+        "which biomarkers predict the severe clinical course of 2019-nCOV infection?"
+      ]
+    },
+    {
+      "query": "coronavirus early symptoms",
+      "suggestions": ["what are the initial symptoms of Covid-19?"]
+    },
+    {
+      "query": "what are the initial symptoms of Covid-19?",
+      "suggestions": ["what are the initial symptoms of Covid-19?"]
+    },
+    {
+      "query": "coronavirus asymptomatic",
+      "suggestions": [
+        "what is known about those infected with Covid-19 but are asymptomatic?"
+      ]
+    },
+    {
+      "query": "what is known about those infected with Covid-19 but are asymptomatic?",
+      "suggestions": [
+        "what is known about those infected with Covid-19 but are asymptomatic?"
+      ]
+    },
+    {
+      "query": "coronavirus hydroxychloroquine",
+      "suggestions": [
+        "what evidence is there for the value of hydroxychloroquine in treating Covid-19?"
+      ]
+    },
+    {
+      "query": "what evidence is there for the value of hydroxychloroquine in treating Covid-19?",
+      "suggestions": [
+        "what evidence is there for the value of hydroxychloroquine in treating Covid-19?"
+      ]
+    },
+    {
+      "query": "coronavirus drug repurposing",
+      "suggestions": [
+        "which SARS-CoV-2 proteins-human proteins interactions indicate potential for drug targets. Are there approved drugs that can be repurposed based on this information?"
+      ]
+    },
+    {
+      "query": "which SARS-CoV-2 proteins-human proteins interactions indicate potential for drug targets. Are there approved drugs that can be repurposed based on this information?",
+      "suggestions": [
+        "which SARS-CoV-2 proteins-human proteins interactions indicate potential for drug targets. Are there approved drugs that can be repurposed based on this information?"
+      ]
+    },
+    {
+      "query": "coronavirus remdesivir",
+      "suggestions": ["is remdesivir an effective treatment for COVID-19"]
+    },
+    {
+      "query": "is remdesivir an effective treatment for COVID-19",
+      "suggestions": ["is remdesivir an effective treatment for COVID-19"]
+    }
+  ]
+}
